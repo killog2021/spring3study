@@ -35,6 +35,7 @@
 
 ### 과제 예시
 
+![image](https://user-images.githubusercontent.com/80164068/110211100-6061f400-7ed8-11eb-811c-f8b9c9e40e64.png)
 
 
 https://docs.google.com/spreadsheets/d/1EiSd2H7Jcxci6dAbtTz2LwL-4T4_yxXFVv2hunjsrGg/edit?usp=sharing 
